@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/xkimido"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/xkimido"
+      url: "https://github.com/xkimido"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/xkimido"
@@ -140,7 +140,7 @@ footer:
       url: "https://facebook.com/xkimido"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/xkimido"
+      # url: "https://github.com/xkimido"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
