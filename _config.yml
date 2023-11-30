@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "김이도"
 description              : "Kim Ido's Blog"
-url                      : "https://xkimido.com"
+url                      : "https://www.xkimido.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "xkimido/xkimido.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -124,10 +124,10 @@ author:
       # url: "https://facebook.com/xkimido"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/xkimido"
+      # url: "https://github.com/xkimido"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/xkimido"
+      # url: "https://instagram.com/xkimido"
 
 # Site Footer
 footer:
@@ -290,7 +290,7 @@ defaults:
       read_time: false
       comments: # true
       share: true
-      related: true
+      related: false
 
   # _pages
   - scope:
