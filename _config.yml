@@ -105,9 +105,9 @@ analytics:
 # Site Author
 author:
   name             : "김이도"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpg"
   bio              : "그림 그리는 개발자"
-  location         : "대한민국"
+  location         : # "대한민국"
   email            :
   links:
     - label: "Email"
