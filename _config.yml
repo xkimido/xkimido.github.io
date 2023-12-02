@@ -287,7 +287,6 @@ defaults:
       layout: single
       author_profile: true
       show_date: true
-      date_format: "%Y-%m-%d"
       read_time: false
       comments: # true
       share: true
@@ -300,3 +299,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+
+# Date Format
+date_format: "%Y-%m-%d"
