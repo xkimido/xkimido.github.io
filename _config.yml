@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "ko-KR"
 title                    : "KIMIDO"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "김이도"
-description              : "Kim Ido's Blog"
+subtitle                 : "김이도 블로그"
+name                     : "Kim Ido"
+description              : "[김이도 블로그] IT, Web development, Art, Diary"
 url                      : "https://www.xkimido.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "xkimido/xkimido.github.io"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "김이도"
   avatar           : "/assets/images/profile.jpg"
-  bio              : "그림 그리는 개발자"
+  bio              : "Lifelong Learner"
   location         : # "대한민국"
   email            :
   links:
