@@ -3,10 +3,6 @@ title : "About Me"
 permalink : /about/
 ---
 
-<center>
-    <img src="\images\about.jpg" width="30%">
-</center>
-
 ## Introduce
 
 - 작은 노트북으로 큰 가치를 만들어낼 수 있다는 것에 매력을 느껴 개발자를 꿈꾸게 되었습니다.
