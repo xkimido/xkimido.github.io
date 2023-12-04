@@ -3,7 +3,47 @@ title : "About Me"
 permalink : /about/
 ---
 
+<center>
+    <img src="\images\about.jpg" width="30%">
+</center>
+
 ## Introduce
 
 - 작은 노트북으로 큰 가치를 만들어낼 수 있다는 것에 매력을 느껴 개발자를 꿈꾸게 되었습니다.
 - 배움에는 끝이 없다는 생각을 가지고 있고, 꾸준히 학습하는 것이 삶의 의미 중 하나입니다.
+- 높은 포용력과 강한 책임감을 가지고 있어 원활한 소통과 협업에 자신이 있습니다.
+
+## Stacks
+
+- **BackEnd**
+    - Django
+    - Spring Boot
+
+- **Database**
+    - PostgreSQL
+    - MySQL/MariaDB
+
+- **Tools**
+    - GitHub
+    - Postman
+
+## Projects
+
+- **오르고** (2023.08.17 - 2023.09.03)
+    - **오르미 교육생들을 위한 커뮤니티**
+    - OAuth2 API를 사용한 소셜로그인 구현
+    - 회원가입, 로그인, 프로필 CRUD, 비밀번호 변경 기능 구현
+    - 회원가입시 이메일 인증 기능 구현
+
+## Experiences
+
+- **오르미 1기** (2023.04.26 - 2023.09.05)
+    - **이스트소프트 백엔드 개발자 부트캠프 오르미 1기 수료**
+    - Python/Django를 사용한 개발 및 팀프로젝트 경험
+    - AWS EC2/S3를 사용한 배포 경험
+    - “주니어 백엔드 개발자, 그 이상으로” 공동 집필
+
+## Education
+
+- **고려사이버대학교** (2023.09 - 현재)
+    - 소프트웨어공학과 전공
