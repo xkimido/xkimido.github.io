@@ -21,7 +21,7 @@ toc_label: "TIL"
 여기서 빌드란 작성한 코드를 실행 가능한 애플리케이션으로 패키징하는 것을 의미
 
 
-> Apache Ant -> Maven -> Gradle 순서로 등장함
+> Apache Ant -> Maven -> Gradle 순서로 등장
 
 ## Flexibility
 
@@ -60,3 +60,7 @@ Maven, Gradle 둘 다 찍먹만 해본 입장에서 "오 그렇구나" 하는 �
 
 ## 참고
 [Gradle vs Maven Comparison](https://gradle.org/maven-vs-gradle/)
+
+**TIL**은 그 날 처음 알게 된 내용을 간략하게 정리한 글입니다.<br>
+틀린 내용이 있을 수 있습니다. 수정이 필요한 내용은 댓글로 피드백 부탁드립니다.
+{: .notice--warning}
