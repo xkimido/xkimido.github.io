@@ -1,6 +1,6 @@
 ---
 title: "PHP Syntax"
-last_modified_at: 2023-12-07
+last_modified_at: 2023-12-08
 categories:
   - TIL
 tags:
