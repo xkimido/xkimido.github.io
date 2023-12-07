@@ -59,6 +59,7 @@ Maven도 종속성 관리를 제공하지만 위 내용과 같이 자유도가 �
 Maven, Gradle 둘 다 찍먹만 해본 입장에서 "오 그렇구나" 하는 내용도 있었고, 잘 와닿지 않는 내용들도 많았다. 앞으로 여러 프로젝트를 진행하면서 더 깊이 알아가는 시간을 가져야겠다.
 
 ## 참고
+
 [Gradle vs Maven Comparison](https://gradle.org/maven-vs-gradle/)
 
 **TIL**은 처음 알게 된 내용을 가볍게 정리한 글입니다.<br>
