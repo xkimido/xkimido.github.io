@@ -292,6 +292,7 @@ defaults:
       share: true
       related: false
       future: true
+      published: true
 
   # _pages
   - scope:
