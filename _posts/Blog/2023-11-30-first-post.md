@@ -2,7 +2,7 @@
 title: "첫 글"
 last_modified_at: 2023-12-02
 categories:
-  - Diary
+  - Blog
 ---
 
 ## 블로그-최종-진짜파이널
