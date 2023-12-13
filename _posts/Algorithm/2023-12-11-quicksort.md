@@ -1,6 +1,6 @@
 ---
 title: "Quicksort"
-last_modified_at: 2023-12-11
+last_modified_at: 2023-12-13
 categories:
   - Algorithm
 tags:
@@ -9,7 +9,7 @@ tags:
 toc: true
 toc_sticky: true
 toc_label: "Quicksort"
-published: false
 ---
 
 # 퀵소트 알고리즘
+
