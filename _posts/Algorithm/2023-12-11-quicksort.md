@@ -4,8 +4,7 @@ last_modified_at: 2023-12-13
 categories:
   - Algorithm
 tags:
-  - quicksort
-  - solting
+  - Solting
 toc: true
 toc_sticky: true
 toc_label: "Quicksort"
