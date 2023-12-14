@@ -2,9 +2,10 @@
 title: "PHP Superglobals"
 last_modified_at: 2023-12-10
 categories:
-  - TIL
+  - Language
 tags:
   - PHP
+  - TIL
 toc: true
 toc_sticky: true
 toc_label: "TIL"

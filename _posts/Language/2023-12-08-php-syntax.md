@@ -2,9 +2,10 @@
 title: "PHP Syntax"
 last_modified_at: 2023-12-08
 categories:
-  - TIL
+  - Language
 tags:
   - PHP
+  - TIL
 toc: true
 toc_sticky: true
 toc_label: "TIL"

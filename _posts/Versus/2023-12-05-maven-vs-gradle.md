@@ -2,11 +2,11 @@
 title: "Maven vs Gradle"
 last_modified_at: 2023-12-06
 categories:
-  - TIL
+  - Versus
 tags:
   - Maven
   - Gradle
-  - Build
+  - TIL
 toc: true
 toc_sticky: true
 toc_label: "TIL"

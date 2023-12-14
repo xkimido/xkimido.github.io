@@ -1,13 +1,13 @@
 ---
-title: "Markdown syntax highlighting"
+title: "Markdown List of languages for syntax highlighting"
 last_modified_at: 2023-12-08
 categories:
-  - Blog
+  - Language
 tags:
   - markdown
 ---
 
-## 지원하는 언어 목록
+## 코드 블록 지원하는 언어 목록
 
 - Cucumber ('*.feature')
 - abap ('*.abap')
