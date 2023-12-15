@@ -28,6 +28,10 @@ toc_label: "Quicksort"
 **정복 Conquer**: 피벗을 기준으로 배열을 두 부분으로 나누고, 각 부분을 재귀적으로 반복한다.<br>
 **결합 Combine**: 부분 배열들이 정렬되면, 결합하여 전체 배열을 완성한다.
 
+## 시간복잡도
+
+![image](https://github.com/xkimido/xkimido.github.io/assets/96900790/38b3791c-4287-4152-a80b-a4ab6202ba91){: .align-center}
+
 ## Java 예제
 
 ```java
@@ -60,4 +64,5 @@ private void swap(int[] arr, int i, int j) {
 ## 참고
 
 [Quicksort](https://en.wikipedia.org/wiki/Quicksort)<br>
-[퀵 정렬](https://ko.wikipedia.org/wiki/%ED%80%B5_%EC%A0%95%EB%A0%AC)
+[퀵 정렬](https://ko.wikipedia.org/wiki/%ED%80%B5_%EC%A0%95%EB%A0%AC)<br>
+[What is the space and time complexity of a quick sort algorithm?](https://www.quora.com/What-is-the-space-and-time-complexity-of-a-quick-sort-algorithm)
