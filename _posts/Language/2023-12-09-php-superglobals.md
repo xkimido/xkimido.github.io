@@ -233,6 +233,5 @@ My username is admin!
 [Superglobals](https://www.php.net/manual/en/language.variables.superglobals.php)<br>
 [Session Functions](https://www.php.net/manual/en/ref.session.php)
 
-**TIL**은 처음 알게 된 내용을 가볍게 정리한 글입니다.<br>
 수정이 필요한 부분은 댓글로 피드백 부탁드립니다!
 {: .notice--warning}

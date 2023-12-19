@@ -62,6 +62,5 @@ Maven, Gradle 둘 다 찍먹만 해본 입장에서 "오 그렇구나" 하는 �
 
 [Gradle vs Maven Comparison](https://gradle.org/maven-vs-gradle/)
 
-**TIL**은 처음 알게 된 내용을 가볍게 정리한 글입니다.<br>
 수정이 필요한 부분은 댓글로 피드백 부탁드립니다!
 {: .notice--warning}

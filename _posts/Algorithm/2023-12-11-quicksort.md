@@ -66,3 +66,6 @@ private void swap(int[] arr, int i, int j) {
 [Quicksort](https://en.wikipedia.org/wiki/Quicksort)<br>
 [퀵 정렬](https://ko.wikipedia.org/wiki/%ED%80%B5_%EC%A0%95%EB%A0%AC)<br>
 [What is the space and time complexity of a quick sort algorithm?](https://www.quora.com/What-is-the-space-and-time-complexity-of-a-quick-sort-algorithm)
+
+수정이 필요한 부분은 댓글로 피드백 부탁드립니다!
+{: .notice--warning}

@@ -98,6 +98,5 @@ define('NAME', value);
 
 [https://tcpschool.com/php/intro](https://tcpschool.com/php/php_intro_syntax)
 
-**TIL**은 처음 알게 된 내용을 가볍게 정리한 글입니다.<br>
 수정이 필요한 부분은 댓글로 피드백 부탁드립니다!
 {: .notice--warning}
