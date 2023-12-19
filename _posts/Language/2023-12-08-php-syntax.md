@@ -5,10 +5,9 @@ categories:
   - Language
 tags:
   - PHP
-  - TIL
 toc: true
 toc_sticky: true
-toc_label: "TIL"
+toc_label: "PHP Syntax"
 ---
 
 # PHP 문법

@@ -6,10 +6,9 @@ categories:
 tags:
   - Maven
   - Gradle
-  - TIL
 toc: true
 toc_sticky: true
-toc_label: "TIL"
+toc_label: "Maven vs Gradle"
 ---
 
 ## 더 나은 선택은?
