@@ -16,17 +16,17 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "KIMIDO"
+title                    : "IK"
 title_separator          : "-"
 subtitle                 : # "김이도 블로그"
-name                     : "KIMIDO"
-description              : "[김이도 블로그] IT, Web development, Art, Diary, Life"
-url                      : "https://www.xkimido.com"
+name                     : "IK"
+description              : "[김이도 블로그] IT, Web development, Art, Life"
+url                      : "https://www.idokim.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "xkimido/xkimido.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "KIMIDO"
+masthead_title           : "IK"
 future                   : true
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -105,7 +105,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kim Ido"
+  name             : "Ido Kim"
   avatar           : "/assets/images/profile.jpg"
   bio              : "Lifelong Learner"
   location         : # "대한민국"
@@ -113,7 +113,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:contact@xkimido.com"
+      url: "mailto:kimidokr@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
